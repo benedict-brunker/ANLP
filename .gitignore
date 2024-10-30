@@ -1,0 +1,41 @@
+misc_txts/
+lecture_slides/ 
+.ipynb_checkpoints/
+AT1/AT1 dataset_AusRadioTalkback/
+AT1/Bibliography/
+*.zip 
+AT2/glove.6B.100d.txt 
+AT2/models/ 
+AT2/presentation/
+AT2/preprocessed_data/ 
+AT2/preprocessed_screenplays/ 
+AT2/raw_text_lemmas/ 
+AT2/raw_texts/ 
+AT2/tables/ 
+AT2/visualizations/ 
+AT2/final_zip/ 
+AT2/checkpoint_files/ 
+AT2/36118_AT2_Report_Group1.docx 
+AT2/36118_NLP_Spring/ 
+Labs/Lab3/data/ 
+Labs/Lab5/Session 5 Colab Notebooks/bert-sentiment-tf/ 
+Labs/Lab6/data/ 
+Labs/Lab6/llm/'UTSMDSI-Azure OpenAI Service - LLM - 2024.09.22.pdf' 
+Labs/Lab6/llm/helpers/
+portfolio/transformers/models/
+portfolio/transformers/test-trainer/ 
+portfolio/rag-tutorial/data/ 
+portfolio/rag-tutorial/sample_code.py 
+portfolio/rag-tutorial/tutorial-index-mlindex/ 
+portfolio/rag-tutorial/gpt35turbo_auth.py 
+portfolio/rag-tutorial/copilot_flow/__pychache__/ 
+.venv/ 
+**/__pychache__/
+__pycache__/
+.promptflow/ 
+*.html 
+portfolio/basics/babynames/__pycache__/babynames.cpython-312.pyc
+portfolio/basics/babynames/solution/babynames.py
+portfolio/basics/babynames/
+Labs/Lab6/llm/ 
+/.env/ 
