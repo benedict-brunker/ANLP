@@ -21,6 +21,7 @@ Labs/Lab3/data/
 Labs/Lab5/Session 5 Colab Notebooks/bert-sentiment-tf/ 
 Labs/Lab6/data/ 
 Labs/Lab6/llm/'UTSMDSI-Azure OpenAI Service - LLM - 2024.09.22.pdf' 
+Labs/Lab6/02.01 optional - setup index.ipynb
 Labs/Lab6/llm/helpers/
 portfolio/transformers/models/
 portfolio/transformers/test-trainer/ 
@@ -39,3 +40,5 @@ portfolio/basics/babynames/solution/babynames.py
 portfolio/basics/babynames/
 Labs/Lab6/llm/ 
 .env
+bb 
+bb.pub 
