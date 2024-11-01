@@ -1,0 +1,49 @@
+# root directory files
+bb
+bb.pub
+
+# root directory folders
+misc_txts/ 
+.ipynb_checkpoints/ 
+lecture_slides/ 
+
+# AT1 
+AT1/'AT1 dataset_AusRadio Talkback' 
+AT1/Bibliography/ 
+
+# AT2 
+AT2/36118_NLP_Spring/
+AT2/checkpoint_files/ 
+AT2/final_zip/ 
+AT2/models/ 
+AT2/preprocessed_data/ 
+AT2/preprocessed_screenplays/ 
+AT2/tables /
+AT2/visualizations/
+AT2/raw_texts/ 
+AT2/raw_text_lemmas/ 
+
+# Labs 
+Labs/Lab5/Session 5 Colab Notebooks/bert-sentiment-tf/ 
+
+# Portfolio 
+portfolio/basics/babynames/solution/ 
+portfolio/basics/babynames/output.txt 
+portfolio/rag-tutorial/sample_code.py 
+portfolio/rag-tutorial/gpt35turbo_auth.py 
+portfolio/rag-tutorial/tutorial-index-mlindex/ 
+portfolio/rag-tutorial/copilot_flow/.promptflow/ 
+portfolio/transformers/test-trainer/ 
+
+# folders to ignore everywhere 
+data/
+__pycache__/
+.venv/ 
+models/ 
+
+# filetypes to ignore everywhere
+*.docx 
+*.zip
+*.env 
+*.pdf
+*.html 
