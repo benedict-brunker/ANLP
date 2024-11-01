@@ -18,10 +18,11 @@ AT2/final_zip/
 AT2/models/ 
 AT2/preprocessed_data/ 
 AT2/preprocessed_screenplays/ 
-AT2/tables /
+AT2/tables/
 AT2/visualizations/
 AT2/raw_texts/ 
 AT2/raw_text_lemmas/ 
+AT2/glove.6B.100d.txt
 
 # Labs 
 Labs/Lab5/Session 5 Colab Notebooks/bert-sentiment-tf/ 
